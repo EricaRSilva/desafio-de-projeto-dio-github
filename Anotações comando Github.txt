@@ -18,7 +18,20 @@ cd 'nome da pasta local'
 # Passo 5
 git status 'para confirmar tudo certo.
 
+# Passo 6
+git status 'vai aparecer msg de erro pedir inclusão do commit"
 
+# Passo 7
+git add . "enter'
 
+# Passo 8
+git status " para confirmar"
 
+# Passo 9
+git commit -m "descição do conteudo"
 
+# Passo 10
+git status
+
+# Passo 11
+git origin main 'verifique no Git se o arquivo foi clonado'
