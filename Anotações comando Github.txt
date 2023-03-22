@@ -1,0 +1,24 @@
+
+## PASSO A PASSO COM ENVIAR PROJETOS PARA O REPOSITÓRIO GITHUB.
+
+# Passo 1
+Fazer a pasta de repositório no Github
+
+# Passo 2 
+Copiar link HTTPS e colar no Git Bash
+
+OBS: Criar pasta de localização
+
+# Passo 3
+na tela CMD digitar " git clone colar o link HTTPS da pasta github "enter"
+
+# Passo 4
+cd 'nome da pasta local'
+
+# Passo 5
+git status 'para confirmar tudo certo.
+
+
+
+
+
